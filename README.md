@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I’m Aarinthara Babu
 
-<!--
-**Aarinthara/Aarinthara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work with data and analytics to support business and decision-making use cases.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Tools
+- SQL
+- Power BI (Business Intelligence)
+- Microsoft Excel
+- Python
+
+---
+
+## What You’ll Find Here
+- SQL-based analytical projects
+- Business intelligence dashboards
+- Excel-driven analysis and reports
+
+---
+
+## Career Interests
+Open to entry-level and internship opportunities in data, analytics, business intelligence, and SQL-related roles.
+
+---
