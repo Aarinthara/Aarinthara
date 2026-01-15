@@ -29,4 +29,4 @@ Seeking entry-level or internship opportunities in:
 
 ### 📫 Connect with me
 - LinkedIn: www.linkedin.com/in/aarinthara-babu-32aba8375
-- Email: aarintharababud  @gmail.com
+- Email: aarintharababud@gmail.com
