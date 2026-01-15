@@ -1,25 +1,32 @@
-# Hi, I’m Aarinthara Babu
+👋 Hi, I'm Aari
 
-I work with data and analytics to support business and decision-making use cases.
 
----
+Data Analyst | Excel | SQL | Python | Power BI
 
-## Skills & Tools
-- SQL
-- Power BI (Business Intelligence)
-- Microsoft Excel
-- Python
 
----
+I’m a BCA (AI & Data Science) graduate focused on data analytics, dashboarding, and business insights. I enjoy working with real-world datasets and turning raw data into actionable insights.
 
-## What You’ll Find Here
-- SQL-based analytical projects
-- Business intelligence dashboards
-- Excel-driven analysis and reports
 
----
+### 🛠 Skills
+- Excel (Power Query, Pivot Tables, Dashboards)
+- SQL (Joins, CTEs, Window Functions)
+- Python (Pandas, NumPy, EDA)
+- Power BI (DAX, Data Modeling)
 
-## Career Interests
-Open to entry-level and internship opportunities in data, analytics, business intelligence, and SQL-related roles.
 
----
+### 📊 Projects
+- 📈 India CPI Inflation Analysis (Excel)
+- 🏥 Healthcare Patient Insights (Excel)
+- 🛒 E-commerce Sales Dashboard (Power BI)
+- 🧮 SQL Retail & E-commerce Case Studies
+
+### 🎯 Career Interests
+Seeking entry-level or internship opportunities in:
+📊 Data Analyst
+📈 Business Analyst
+📉 Business Intelligence Analyst
+🗄️ SQL / Reporting Analyst roles
+
+### 📫 Connect with me
+- LinkedIn: www.linkedin.com/in/aarinthara-babu-32aba8375
+- Email: aarintharababud  @gmail.com
